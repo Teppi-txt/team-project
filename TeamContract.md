@@ -18,37 +18,59 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+- We will communicate via Discord and Instagram for anything related to the project
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+- We will respond to messages within 24 hours
+  - If any conflicts are known ahead of time we will inform our teammates about how long we will be unavailable for
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+- We will let each other know if we anticipate missing a deadline and how much extra time we will require
+    - It has to be a reasonable time period (e.g. not an extra 2 weeks)
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+- We will let each other know about an absences; it has to be for any specific reason (both lectures and tutorials)
+
+- We will ask for help/guidance when required
+
+- We will listen and ask for other opinions(making sure no one feels left out)
+
+- We will update those who were absent on what was worked on or discussed
+---
 
 ---
 
-### [Other Categories of norms and expectations go here]
+### Work Quality
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
+- Try our best to adhere to the principles discussed in class when writing code.
+- Implement all functionality that your code should be responsible for (more functionality can be requested and implemented later but it's good to be comprehensive)
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+- Discuss conflicts where possible to synthesize ideas; if this is not possible or conflict continues, we go to majority vote
+
+- If an idea is not feasible within the time frame, we will proceed with the other idea
 
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+- If a team member notices any issues, they will bring it up to the group and explain their point of view
+
+- The team member will then provide some ideas on how we can resolve this issue
+
+- If the issue persists it will be noted in the peer feedback form and consult a TA or course instructor for some ideas on how we could go around the issue
+
+- If the issue is not able to be resolved after all the prior steps, we will use the steps outlined in decision making.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+- Completing their task within the mock due date set
+
+- Updating team members on any delays or issues that arise when completing their part
+
+- Asking for help when required rather than staying silent about any issues
+
 
 ---
 
