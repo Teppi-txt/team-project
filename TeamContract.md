@@ -80,4 +80,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Dimural Murat, Le Hoang Minh (Teppi) (type names here)
+Dimural Murat, Le Hoang Minh (Teppi), Anvi Raj Singh (type names here)
